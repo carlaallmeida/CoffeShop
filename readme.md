@@ -1,13 +1,10 @@
-<h1 align="center">Site - Coffe Shops Tia Rosa</h1>
+<h1 align="center">Projeto -  Site Coffe Shops Tia Rosa</h1>
 
 <p align="center" display="inline-block">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="top-language"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="top-language"/>
 </p>
-
-<p>
-    <h1 align="center"> Proposta do Projeto</h1>
     <p> O projeto foi criado para a disciplina de Construção do Frontend. Seu objetivo é estudar e aplicar os conceitos da linguagem. </p>
     <p> As imagens para criação do site foram feitas no Canva e estão armazenadas dentro de uma pasta com os nomes: LogoCoffe.jpg, prod1.png, e venda.png.</p>
     <p> Todos os textos e imagens são de autoria própria, realizado por meio de pesquisas.</p>
@@ -20,14 +17,16 @@
 
 <br>
 
- **Cores e Fontes usadas no Site**
+<h1 align="center">Cores e Fontes usadas no Site</h1>
  
  - Background: #1B1007 e o Branco: #fffff
  - Tipo de fonte usada: inherit
  
+<br>
+
+<h1 align="center">Explicando o Código</h1>
 
  **Criação da Página Home**
-
 
  <p>Após criar um novo documento, dentro da tag html
  colocamos um parâmetro "lang=pt-br" indicando que o site está em português. Logo em seguida usei a tag *title* para definir um titúlo para a página do site: Tia Rosa Coffe Shops.</p>
