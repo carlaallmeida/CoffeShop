@@ -1,11 +1,11 @@
-<h1 align="center">Projeto -  Site Coffe Shops Tia Rosa</h1>
+<h1 align="center">Projeto -  Site Coffe ShopTia Rosa</h1>
 
 <p align="center" display="inline-block">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="top-language"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="top-language"/>
 </p>
-<p> O projeto foi criado para a disciplina de Construção do Frontend. Seu objetivo é estudar e aplicar os conceitos da linguagem. As imagens para criação do site foram feitas no Canva e estão armazenadas dentro da pasta <i>imagens</i>.Todos os textos e imagens são de autoria própria, realizado por meio de pesquisas.</p>
+<p> O projeto foi criado para a disciplina de Construção do Frontend. Seu objetivo é estudar e aplicar os conceitos da linguagem. Toda arte para criação do site foi feita com o auxilio do Canva. Os textos e imagens são de autoria própria, realizado por meio de pesquisas.</p>
 <br> 
         
  <h1 align="center">Pré-requisito</h1>
