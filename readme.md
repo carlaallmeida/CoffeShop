@@ -8,17 +8,23 @@
 
 <p>
     <h1 align="center"> Proposta do Projeto</h1>
-    <p>  O projeto foi criado para a disciplina de Construção do Frontend, com o objetivo de conhecer a empresa e os produtos. </p>
+    <p> O projeto foi criado para a disciplina de Construção do Frontend. Seu objetivo é estudar e aplicar os conceitos da linguagem. </p>
     <p> As imagens para criação do site foram feitas no Canva e estão armazenadas dentro de uma pasta com os nomes: LogoCoffe.jpg, prod1.png, e venda.png.</p>
-    <p> Após a pesquisa da situação problema, optei por criar um site funcional com as informações voltadas à empresa. A mesmo tempo informa-se a possibilidade de realização da compra do produto através da criação de uma loja virtual.  Todos os textos e imagens são de autoria própria, realizado por meio de pesquisas.</p>
-    <br>
+    <p> Todos os textos e imagens são de autoria própria, realizado por meio de pesquisas.</p>
+    <br> 
+    
+    
+ <h1 align="center">Pré-requisito</h1>
+
+-  Não há.
+
+<br>
 
  **Cores e Fontes usadas no Site**
  
-
  - Background: #1B1007 e o Branco: #fffff
  - Tipo de fonte usada: inherit
-
+ 
 
  **Criação da Página Home**
 
@@ -59,3 +65,15 @@ elemento p está armazenando o texto de explicação do mesmo.</p>
 **Rodapé**
 
 <p>Foi criado a tag footer para criação do rodapé. E um h4 para destacar a mensagem do rodapé.</p>
+
+<br>
+
+<h1 align="center">Editor Usado</h1>
+
+- Todo o código foi desenvolvido no Visual Studio Code.
+
+<br>
+
+<h1 align="center">Licença</h1>
+
+- MIT License.
