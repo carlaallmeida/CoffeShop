@@ -5,12 +5,9 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="top-language"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="top-language"/>
 </p>
-    <p> O projeto foi criado para a disciplina de Construção do Frontend. Seu objetivo é estudar e aplicar os conceitos da linguagem. </p>
-    <p> As imagens para criação do site foram feitas no Canva e estão armazenadas dentro de uma pasta com os nomes: LogoCoffe.jpg, prod1.png, e venda.png.</p>
-    <p> Todos os textos e imagens são de autoria própria, realizado por meio de pesquisas.</p>
-    <br> 
-    
-    
+<p> O projeto foi criado para a disciplina de Construção do Frontend. Seu objetivo é estudar e aplicar os conceitos da linguagem. As imagens para criação do site foram feitas no Canva e estão armazenadas dentro da pasta <i>imagens</i>.Todos os textos e imagens são de autoria própria, realizado por meio de pesquisas.</p>
+<br> 
+        
  <h1 align="center">Pré-requisito</h1>
 
 -  Não há.
