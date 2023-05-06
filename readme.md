@@ -1,4 +1,4 @@
-<h1 align="center">Projeto -  Site Coffe ShopTia Rosa</h1>
+<h1 align="center">Site CoffeShop Tia Rosa</h1>
 
 <p align="center" display="inline-block">
 
