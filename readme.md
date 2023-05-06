@@ -14,7 +14,7 @@
 
 <br>
 
-<h1 align="center">Cores e Fontes usadas no Site</h1>
+<h1 align="center">Cores e Fontes usadas</h1>
  
  - Background: #1B1007 e o Branco: #fffff
  - Tipo de fonte usada: inherit
