@@ -2,7 +2,7 @@
 
 <p align="left" display="inline-block">
 
-<img src="https://img.shields.io/badge/HTML5-#4B0082?style=for-the-badge&logo=html5&logoColor=white"  alt="top-language"/>
+<img src="https://img.shields.io/badge/HTML5-4B0082?style=for-the-badge&logo=html5&logoColor=white"  alt="top-language"/>
 </p>
 <p> O projeto foi criado para a disciplina de Construção do Frontend. Seu objetivo é estudar e aplicar os conceitos da linguagem. Toda arte para criação do site foi feita com o auxilio do Canva. Os textos e imagens são de autoria própria, realizado por meio de pesquisas.</p>
 <br> 
