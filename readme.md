@@ -11,15 +11,13 @@
 
 -  Não há.
 
-<br>
-
 <h2 align="left">Cores e Fontes usadas</h2>
  
  - Background: #1B1007 e o Branco: #fffff
  - Tipo de fonte usada: inherit
  
 <h2 align="left">Explicando o Código</h2>
-<br>
+
  **Criação da Página Home**
 ---
  <p>Após criar um novo documento, dentro da tag html
