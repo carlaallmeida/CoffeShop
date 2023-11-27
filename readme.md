@@ -55,7 +55,7 @@ agrupar elementos. No caso do site usei para colocar uma imagem ao lado do texto
 
 <br>
 
-<h2 align="left">Ferramemta de Edição</h2>
+<h2 align="left">Ferramenta de Edição</h2>
 
 - Todo o código foi desenvolvido no Visual Studio Code.
 
