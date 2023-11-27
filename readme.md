@@ -1,27 +1,26 @@
-<h1 align="center">Site CoffeShop Tia Rosa</h1>
+<h1 align="left">Site CoffeShop</h1>
 
-<p align="center" display="inline-block">
+<p align="left" display="inline-block">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="top-language"/>
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="top-language"/>
+<img src="https://img.shields.io/badge/HTML5-#4B0082?style=for-the-badge&logo=html5&logoColor=white"  alt="top-language"/>
 </p>
 <p> O projeto foi criado para a disciplina de Construção do Frontend. Seu objetivo é estudar e aplicar os conceitos da linguagem. Toda arte para criação do site foi feita com o auxilio do Canva. Os textos e imagens são de autoria própria, realizado por meio de pesquisas.</p>
 <br> 
         
- <h1 align="center">Pré-requisito</h1>
+ <h1 align="left">Pré-requisito</h1>
 
 -  Não há.
 
 <br>
 
-<h1 align="center">Cores e Fontes usadas</h1>
+<h1 align="left">Cores e Fontes usadas</h1>
  
  - Background: #1B1007 e o Branco: #fffff
  - Tipo de fonte usada: inherit
  
 <br>
 
-<h1 align="center">Explicando o Código</h1>
+<h1 align="left">Explicando o Código</h1>
 
  **Criação da Página Home**
 
@@ -64,12 +63,12 @@ elemento p está armazenando o texto de explicação do mesmo.</p>
 
 <br>
 
-<h1 align="center">Editor Usado</h1>
+<h1 align="left">Editor Usado</h1>
 
 - Todo o código foi desenvolvido no Visual Studio Code.
 
 <br>
 
-<h1 align="center">Licença</h1>
+<h1 align="left">Licença</h1>
 
 - MIT License.
