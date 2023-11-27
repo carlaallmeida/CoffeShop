@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"  alt="top-language"/>
 </p>
-<p> O projeto foi criado para a disciplina de Construção do Frontend. Seu objetivo aplicar os conceitos da linguagem.</p>
+<p> O projeto foi criado para a disciplina de Construção do Frontend, afim de aplicar os conceitos da linguagem.</p>
 <br> 
         
  <h1 align="left">Pré-requisito</h1>
@@ -18,10 +18,8 @@
  - Background: #1B1007 e o Branco: #fffff
  - Tipo de fonte usada: inherit
  
-<br>
-
 <h2 align="left">Explicando o Código</h2>
-
+<br>
  **Criação da Página Home**
 ---
  <p>Após criar um novo documento, dentro da tag html
