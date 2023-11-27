@@ -2,7 +2,7 @@
 
 <p align="left" display="inline-block">
 
-<img src="https://img.shields.io/badge/HTML5-4B0082?style=for-the-badge&logo=html5&logoColor=white"  alt="top-language"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"  alt="top-language"/>
 </p>
 <p> O projeto foi criado para a disciplina de Construção do Frontend. Seu objetivo aplicar os conceitos da linguagem.</p>
 <br> 
@@ -63,7 +63,7 @@ elemento p está armazenando o texto de explicação do mesmo.</p>
 
 <br>
 
-<h1 align="left">Editor Usado</h1>
+<h1 align="left">Ferrrameta de Edição</h1>
 
 - Todo o código foi desenvolvido no Visual Studio Code.
 
