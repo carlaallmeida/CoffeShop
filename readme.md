@@ -20,6 +20,7 @@
 
  **Criação da Página Home**
 ---
+
  <p>Após criar um novo documento, dentro da tag html
  colocamos um parâmetro <code>"lang=pt-br"</code> indicando que o site está em português. Logo em seguida usei a tag *title* para definir um titúlo para a página do site.</p>
 <p>Na tag *meta* , o <code> charset= “utf-8”</code> informa ao navegador que o idioma do site está em português, permitindo que ele aceite palavras com acentos e cedilhas.</p>
